@@ -30,14 +30,19 @@
 
 <p align="left"> <a href="https://www.github.com/YashSrivastava26" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/yashsrivastava2603" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
+<h3 align="left"> Badges <h3>
+<img align="right" src="https://komarev.com/ghpvc/?username=yashsrivastava26&label=Profile%20views&color=0e75b6&style=flat" alt="Yash Srivastava">
+
+###
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/YashSrivastava26"><img src="https://github-readme-stats.vercel.app/api?username=YashSrivastava26&show_icons=true&hide=contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="YashSrivastava26's GitHub stats" /></a>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=yashsrivastava26&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yashsrivastava26&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=yashsrivastava26&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=yashsrivastava26&theme=nord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
+<a href="http://www.github.com/YashSrivastava26"><img src="https://github-readme-activity-graph.vercel.app/graph?username=YashSrivastava26&locale=en&hide_title=false&layout=compact&langs_count=5&theme=nord&hide_border=false" alt="GitHub Commits Graph" /></a>
+</div>
 
-<a href="http://www.github.com/YashSrivastava26"><img src="https://github-readme-streak-stats.herokuapp.com/?user=YashSrivastava26&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/YashSrivastava26"><img src="https://github-readme-activity-graph.vercel.app/graph?username=YashSrivastava26&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/YashSrivastava26" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashSrivastava26&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+###
